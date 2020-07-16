@@ -1,0 +1,24 @@
+{
+  "name": "ejemplo-mockserver",
+  "version": "1.0.0",
+  "description": "Creación de API end-points para probar el Frontend independientemente del estado del Backend",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarisaAfuera/Ejemplo-Json-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarisaAfuera/Ejemplo-Json-server/issues"
+  },
+  "homepage": "https://github.com/MarisaAfuera/Ejemplo-Json-server#readme"
+}

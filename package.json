@@ -4,7 +4,7 @@
   "description": "Creación de API end-points para probar el Frontend independientemente del estado del Backend",
   "dependencies": {
     "casual": "^1.6.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {},
   "scripts": {
